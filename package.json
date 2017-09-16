@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "lsc test.ls",
+    "start": "lsc server.ls"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "mongojs": "^2.4.1",
+    "require-ls": "0.0.8"
+  },
+  "devDependencies": {
+    "moment": "^2.18.1",
+    "supertest": "^3.0.0"
+  }
+}
