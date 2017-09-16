@@ -3,7 +3,8 @@
 ### Setup 
 
 ```
-npm i livescript -g
+npm i livescript forever -g
+npm i
 ```
 
 ### Start for Debug
